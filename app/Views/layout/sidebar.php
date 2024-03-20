@@ -19,7 +19,7 @@
           <li class="sidebar-list">
             </i>
             <a class="sidebar-link sidebar-title link-nav" href="<?= base_url("/") ?>">
-              <span style="margin-left: 20px;">DashBoard</span>
+              <span style="margin-left: 20px;">Dashboard</span>
             </a>
           </li>
 

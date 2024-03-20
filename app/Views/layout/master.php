@@ -10,6 +10,7 @@
     <meta name="author" content="pixelstrap">
     <link rel="icon" href="<?= base_url() ?>/assets/images/favicon.png" type="image/x-icon">
     <link rel="shortcut icon" href="<?= base_url() ?>/assets/images/favicon.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/css/tom-select.css" rel="stylesheet">
     <title>Dashboard</title>
     <?= $this->include('layout/css') ?>
 </head>

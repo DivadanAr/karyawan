@@ -1,0 +1,1798 @@
+CRITICAL - 2024-03-18 06:01:43 --> ErrorException: Undefined variable $data
+in APPPATH\Views\karyawan\karyawan.php on line 47.
+ 1 APPPATH\Views\karyawan\karyawan.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(27): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:02:45 --> ErrorException: Undefined variable $data
+in APPPATH\Views\karyawan\karyawan.php on line 47.
+ 1 APPPATH\Views\karyawan\karyawan.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:02:46 --> ErrorException: Undefined variable $data
+in APPPATH\Views\karyawan\karyawan.php on line 47.
+ 1 APPPATH\Views\karyawan\karyawan.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 47)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:02:58 --> ErrorException: Undefined array key "nip"
+in APPPATH\Views\karyawan\karyawan.php on line 50.
+ 1 APPPATH\Views\karyawan\karyawan.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nip"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:02:59 --> ErrorException: Undefined array key "nip"
+in APPPATH\Views\karyawan\karyawan.php on line 50.
+ 1 APPPATH\Views\karyawan\karyawan.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nip"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 50)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:16 --> ErrorException: Undefined array key "makanan_favorite"
+in APPPATH\Views\karyawan\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "makanan_favorite"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:17 --> ErrorException: Undefined array key "makanan_favorite"
+in APPPATH\Views\karyawan\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "makanan_favorite"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:26 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\karyawan\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:27 --> ErrorException: foreach() argument must be of type array|object, null given
+in APPPATH\Views\karyawan\karyawan.php on line 60.
+ 1 APPPATH\Views\karyawan\karyawan.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 60)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:46 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\karyawan\karyawan.php on line 61.
+ 1 APPPATH\Views\karyawan\karyawan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:03:47 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\karyawan\karyawan.php on line 61.
+ 1 APPPATH\Views\karyawan\karyawan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:04:05 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\karyawan\karyawan.php on line 61.
+ 1 APPPATH\Views\karyawan\karyawan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:04:05 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\karyawan\karyawan.php on line 61.
+ 1 APPPATH\Views\karyawan\karyawan.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 61)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:38:27 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\karyawan\karyawan.php on line 121.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 3 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:46:55 --> ErrorException: Undefined variable $olahraga
+in APPPATH\Views\karyawan\karyawan.php on line 88.
+ 1 APPPATH\Views\karyawan\karyawan.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $olahraga', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 88)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:46:56 --> ErrorException: Undefined variable $olahraga
+in APPPATH\Views\karyawan\karyawan.php on line 88.
+ 1 APPPATH\Views\karyawan\karyawan.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $olahraga', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 88)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:47:49 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 88.
+ 1 APPPATH\Views\karyawan\karyawan.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 88)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:47:51 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 88.
+ 1 APPPATH\Views\karyawan\karyawan.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 88)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:48:20 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 88.
+ 1 APPPATH\Views\karyawan\karyawan.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 88)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:48:40 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 59.
+ 1 APPPATH\Views\karyawan\karyawan.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:48:41 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 59.
+ 1 APPPATH\Views\karyawan\karyawan.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:49:04 --> ErrorException: Undefined array key "id"
+in APPPATH\Views\karyawan\karyawan.php on line 59.
+ 1 APPPATH\Views\karyawan\karyawan.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php', 59)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(29): view('karyawan/karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:49:43 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 178.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:51:02 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 178.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('1')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 06:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 06:54:05 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 180.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('5')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:54:18 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 06:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 06:56:45 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 183.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:57:52 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Result::delete()
+in APPPATH\Controllers\Karyawan.php on line 180.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('2')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 06:58:07 --> Error: Call to a member function delete() on array
+in APPPATH\Controllers\Karyawan.php on line 182.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->delete('2')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 06:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 06:58:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 07:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 07:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 07:46:41 --> Error: Class "App\Controllers\MakananModel" not found
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 07:47:11 --> Error: Class "App\Controllers\MakananModel" not found
+in APPPATH\Controllers\Home.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 07:47:49 --> Error: Class "App\Controllers\OlahragaModell" not found
+in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 07:55:14 --> Error: Class "App\Controllers\MakananFavModel" not found
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 07:55:29 --> Error: Class "App\Controllers\MakananFavModel" not found
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:01:36 --> mysqli_sql_exception: Column 'id' in field list is ambiguous in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:01:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:36 --> [Caused by] mysqli_sql_exception: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:01:36 --> mysqli_sql_exception: Column 'id' in field list is ambiguous in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:01:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:01:36 --> [Caused by] mysqli_sql_exception: Column 'id' in field list is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:02:13 --> mysqli_sql_exception: Unknown column 'makanan_favorite.makanan_id' in 'field list' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:02:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:13 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:13 --> [Caused by] mysqli_sql_exception: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:02:14 --> mysqli_sql_exception: Unknown column 'makanan_favorite.makanan_id' in 'field list' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:02:14 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:14 --> [Caused by] mysqli_sql_exception: Unknown column 'makanan_favorite.makanan_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:02:42 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:02:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:42 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:02:43 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:02:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:02:43 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`karyawan_id` = `karyawan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:15 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:15 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:16 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:16 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:16 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorite.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:24 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:24 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:25 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:25 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:31 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:31 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:32 --> mysqli_sql_exception: Not unique table/alias: 'makanan_favorit' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(ma...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(ma...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(ma...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(ma...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:32 --> [Caused by] mysqli_sql_exception: Not unique table/alias: 'makanan_favorit'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:46 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1 in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count()\n...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()\n...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()\n...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()\n...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:46 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:46 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:03:48 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1 in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count()\n...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()\n...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()\n...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()\n...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:03:48 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:03:48 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` =' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count()
+FROM `makanan_favorit`
+LEFT JOIN `makanan_favorit` ON `makanan_favorit`.`id` = `makanan`.`id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 08:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 08:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-18 08:16:11 --> mysqli_sql_exception: FUNCTION karyawan_db.groupBy does not exist in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(gr...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(gr...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(gr...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(gr...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:16:11 --> CodeIgniter\Database\Exceptions\DatabaseException: FUNCTION karyawan_db.groupBy does not exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(17): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:16:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: FUNCTION karyawan_db.groupBy does not exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(17): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:16:11 --> [Caused by] mysqli_sql_exception: FUNCTION karyawan_db.groupBy does not exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(groupBy(makanan_id))
+FROM `makanan_favorit`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(17): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:18:49 --> mysqli_sql_exception: Unknown column 'makanan.nama_makanan' in 'field list' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `makanan...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:18:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:18:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:18:49 --> [Caused by] mysqli_sql_exception: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:19:21 --> mysqli_sql_exception: Unknown column 'makanan.nama_makanan' in 'field list' in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `makanan...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:19:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:19:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:19:21 --> [Caused by] mysqli_sql_exception: Unknown column 'makanan.nama_makanan' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.makanan_id)
+FROM `makanan_favorit`
+GROUP BY `makanan_id`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(18): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 08:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 08:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 08:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-03-18 08:31:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1 in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(id...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:31:18 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:31:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:31:18 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-18 08:31:19 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1 in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(id...', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id...')
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id...')
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+CRITICAL - 2024-03-18 08:31:19 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 2 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:31:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 311.
+ 1 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:31:19 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempua' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(306): mysqli->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT count(id) as total_karyawan, count(where jenis_kelamin=Laki-laki) as total_laki, count(where jenis_kelamin=Perempuan) as total_perempuan
+FROM `karyawan`', [], false)
+ 5 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Home.php(26): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 9 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:34:05 --> ErrorException: Undefined variable $total_karyawan
+in APPPATH\Views\dashboard.php on line 38.
+ 1 APPPATH\Views\dashboard.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_karyawan', 'C:\\LCD\\karyawan\\app\\Views\\dashboard.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\Home.php(35): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 08:34:07 --> ErrorException: Undefined variable $total_karyawan
+in APPPATH\Views\dashboard.php on line 38.
+ 1 APPPATH\Views\dashboard.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total_karyawan', 'C:\\LCD\\karyawan\\app\\Views\\dashboard.php', 38)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\Home.php(35): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:08:34 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(149): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:09:20 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(153): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:09:21 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(153): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:09:29 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(153): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:09:49 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(153): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:09:50 --> ErrorException: Undefined variable $makanan
+in APPPATH\Views\makanan\edit_makanan.php on line 33.
+ 1 APPPATH\Views\makanan\edit_makanan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $makanan', 'C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\makanan\\edit_makanan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('makanan/edit_makanan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(153): view('makanan/edit_makanan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:25:18 --> ErrorException: Undefined array key "nama_olahraga"
+in APPPATH\Views\karyawan\edit_karyawan.php on line 85.
+ 1 APPPATH\Views\karyawan\edit_karyawan.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_olahraga"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\edit_karyawan.php', 85)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\edit_karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/edit_karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(160): view('karyawan/edit_karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('11')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+CRITICAL - 2024-03-18 09:25:19 --> ErrorException: Undefined array key "nama_olahraga"
+in APPPATH\Views\karyawan\edit_karyawan.php on line 85.
+ 1 APPPATH\Views\karyawan\edit_karyawan.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_olahraga"', 'C:\\LCD\\karyawan\\app\\Views\\karyawan\\edit_karyawan.php', 85)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\LCD\\karyawan\\app\\Views\\karyawan\\edit_karyawan.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('karyawan/edit_karyawan', [], true)
+ 5 APPPATH\Controllers\Karyawan.php(160): view('karyawan/edit_karyawan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Karyawan->edit('11')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Karyawan))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-18 09:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-03-18 09:45:05 --> ErrorException: Cannot use try without catch or finally
+in APPPATH\Controllers\Karyawan.php on line 188.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-03-18 09:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 09:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 09:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 09:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-03-18 09:46:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

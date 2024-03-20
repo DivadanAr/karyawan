@@ -1,0 +1,93 @@
+ERROR - 2024-03-20 06:35:12 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'karyawan_db', 3306, '', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#3 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\LCD\karyawan\app\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#11 {main}
+CRITICAL - 2024-03-20 06:35:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.karyawan_id) as total
+FROM `makanan_favorit`
+LEFT JOIN `makanan` ON `makanan`.`id` = `makanan_favorit`.`makanan_id`
+GROUP BY `makanan_id`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+ERROR - 2024-03-20 06:35:28 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'karyawan_db', 3306, '', 0)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\LCD\karyawan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#4 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\LCD\karyawan\app\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#8 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\LCD\karyawan\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\LCD\karyawan\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\LCD\karyawan\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\LCD\karyawan\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan...', Array, false)
+#3 C:\LCD\karyawan\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\LCD\karyawan\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\LCD\karyawan\app\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\LCD\karyawan\system\CodeIgniter.php(941): App\Controllers\Home->index()
+#7 C:\LCD\karyawan\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\LCD\karyawan\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\LCD\karyawan\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\LCD\karyawan\system\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan...')
+#11 {main}
+CRITICAL - 2024-03-20 06:35:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `makanan`.`nama_makanan`, count(makanan_favorit.karyawan_id) as total
+FROM `makanan_favorit`
+LEFT JOIN `makanan` ON `makanan`.`id` = `makanan_favorit`.`makanan_id`
+GROUP BY `makanan_id`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Home.php(21): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\LCD\\karyawan\\public\\index.php')
+INFO - 2024-03-20 06:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

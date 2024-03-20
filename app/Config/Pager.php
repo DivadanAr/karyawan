@@ -20,10 +20,17 @@ class Pager extends BaseConfig
      *
      * @var array<string, string>
      */
-    public array $templates = [
-        'default_full'   => 'CodeIgniter\Pager\Views\default_full',
-        'default_simple' => 'CodeIgniter\Pager\Views\default_simple',
-        'default_head'   => 'CodeIgniter\Pager\Views\default_head',
+    public $templates = [
+        'default_full'   => '<ul class="pagination">{pager}</ul>',
+        'default_first'  => '<li class="page-item"><a href="{uri}" class="page-link">{page}</a></li>',
+        'default_last'   => '<li class="page-item"><a href="{uri}" class="page-link">{page}</a></li>',
+        'default_next'   => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="Next">{page}</a></li>',
+        'default_previous' => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="Previous">{page}</a></li>',
+        'default_full_first' => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="First">{page}</a></li>',
+        'default_full_last' => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="Last">{page}</a></li>',
+        'default_full_next' => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="Next">{page}</a></li>',
+        'default_full_previous' => '<li class="page-item"><a href="{uri}" class="page-link" aria-label="Previous">{page}</a></li>',
+        'pagination'   => 'App\Views\template\pagination',
     ];
 
     /**
@@ -33,5 +40,5 @@ class Pager extends BaseConfig
      *
      * The default number of results shown in a single page.
      */
-    public int $perPage = 20;
+    public int $perPage = 0;
 }

@@ -13,11 +13,11 @@
 
  <!-- Plugins JS start-->
 
- <script src="<?= base_url() ?>/assets/js/sidebar-menu.js"></script>
+ <!-- <script src="<?= base_url() ?>/assets/js/sidebar-menu.js"></script> -->
  <script src="<?= base_url() ?>/assets/js/slick/slick.min.js"></script>
  <script src="<?= base_url() ?>/assets/js/slick/slick.js"></script>
  <script src="<?= base_url() ?>/assets/js/header-slick.js"></script>
- <script src="<?= base_url() ?>/assets/js/chart/apex-chart/apex-chart.js"></script>
+ <!-- <script src="<?= base_url() ?>/assets/js/chart/apex-chart/apex-chart.js"></script> -->
  <script src="<?= base_url() ?>/assets/js/animation/wow/wow.min.js"></script>
  <script src="<?= base_url() ?>/assets/js/prism/prism.min.js"></script>
 
@@ -29,4 +29,7 @@
  <script src="<?= base_url() ?>/assets/js/theme-customizer/customizer.js"></script>
  <!-- login js-->
  <!-- Plugin used-->
- <script>new WOW().init();</script>
+ <script>
+     new WOW().init();
+ </script>
+ <script src="https://cdn.jsdelivr.net/npm/tom-select@2.3.1/dist/js/tom-select.complete.min.js"></script>
